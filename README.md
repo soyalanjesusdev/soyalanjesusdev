@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajdata
+- 👋  💻☕🍷Hi, I’m @ajdata
 
 Soy un desarrollador de software junior con fuertes habilidades para la resolución de problemas, motivado y apasionado por el aprendizaje continuo, hace poco menos de un año me embarqué en la aventura de hacer un cambio total en mi vida profesional y personal al incursionar en el mundo de las IT, descubrí una pasión que quiero mejorar, perfeccionar para contribuir a la resolución de problemas.
 - 👀 I’m interesa la Lectura el aprendizaje continuo soy apasionado de los libro .
