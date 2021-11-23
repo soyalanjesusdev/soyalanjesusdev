@@ -1,8 +1,8 @@
 - 👋  💻☕🍷Hi, I’m @ajdata
 
-Soy un desarrollador de software junior en formación con fuertes habilidades para la resolución de problemas, motivado y apasionado por el aprendizaje continuo, descubrí una pasión que quiero mejorar, perfeccionar para contribuir dando  mi aporte  generando soluciones creativas
-- 👀 I’m interesa la Lectura el aprendizaje continuo soy apasionado de los libros
-- 📫 @alanjesusb en twitter @ajdata en Linkedin
+I am a junior software developer in training with strong problem solving skills, motivated and passionate about continuous learning, I discovered a passion that I want to improve, improve to contribute my contribution by generating creative solutions.
+- 👀 I’m interested in reading and continuous learning, I am passionate about books.
+- 📫 @alanjesusb twitter @ajdata  Linkedin
 
 <div align="center">
   <a href="https://github.com/ajdata">
@@ -10,11 +10,12 @@ Soy un desarrollador de software junior en formación con fuertes habilidades pa
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdata&layout=compact&langs_count=7&"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Alan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+  
  
 </div>
   
