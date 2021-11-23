@@ -6,8 +6,8 @@ I am a junior software developer in training with strong problem solving skills,
 
 <div align="center">
   <a href="https://github.com/ajdata">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajdata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdata&theme=dark&layout=compact&langs_count=7&"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ajdata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdata&theme=dark&layout=compact&langs_count=7&"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
