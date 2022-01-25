@@ -1,8 +1,19 @@
-- 👋  💻☕🍷Hi, I’m @ajdata
+- 👋  💻☕🍷Hi, I’m Alan
 
 I am a junior software developer in training with strong problem solving skills, motivated and passionate about continuous learning, I discovered a passion that that I want to improve, to deliver a meaningful contribution by generating creative solutions
 - 👀 I’m interested in reading and continuous learning, I am passionate about books.
 - 📫  @ajdata  Linkedin
+
+- 🌱 I’m currently learning Web and Mobile development technologies 
+- 🥅 2021 Goals: Become a Full Stack MERN & Mobile Developer
+- 👀 I’m interesting in Web and Mobile projects
+
+## Skills and Experience
+* ⚛ React, Redux
+* 📱 React Native
+* 💻 HTML, CSS, JS
+* 🦎 Mongodb, Mongoose
+* 👨‍💻 Nodejs
 
 
  ##
