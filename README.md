@@ -12,6 +12,7 @@ I am a junior software developer in training with strong problem solving skills,
 * 💻 HTML, CSS, JS
 * 🦎 Mongodb, Mongoose
 * 👨‍💻 Nodejs
+* <i class="fab fa-amazon"></i> AWS
 
 
  ##
