@@ -22,8 +22,8 @@ I am a junior software developer in training with strong problem solving skills,
   	
 <div align="center">
   <a href="https://github.com/ajdata">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ajdata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajdata&theme=dark&layout=compact&langs_count=7&"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=soyalanjesusdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyalanjesusdev&theme=dark&layout=compact&langs_count=7&"/>
     
 </div>
   
@@ -48,7 +48,7 @@ I am a junior software developer in training with strong problem solving skills,
  
  
   <a href = "mailto:blancodalan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ajdata" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/soyalanjesusdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
